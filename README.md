@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryanarayan Panigrahy</h1>
-<h3 align="center">🚀 Full-Stack Developer | React & Flutter Enthusiast | AI Explorer</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI Explorer</h3>
 
 
 ---
@@ -13,7 +13,7 @@
 <ul>
   <li>💻 Final year Computer Engineering student, passionate about building scalable, real-world software.</li>
   <li>🔭 Currently working on AI-powered learning platforms and developing Full-stack applications.</li>
-  <li>📫 Reach me at: <strong>panigrahysuryanarayan360@gmail.com</strong></li>
+  <li>📫 Reach me at: <strong>panigrahisurya360@gmail.com</strong></li>
   <li>🏆 Hack-ai-thon 3.0 & 2.0 Winner | BuzzPro Finalist</li>
 </ul>
 
